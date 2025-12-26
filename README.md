@@ -3,6 +3,7 @@ This project focuses on analyzing consumer complaints related to financial produ
 
 The data set and data dictionary are attached here.
 
+These are the steps which i have done on this project
 TASK 1: Problem Definition & Dataset Selection 
 
 TASK 2: Data Cleaning & Pre-processing

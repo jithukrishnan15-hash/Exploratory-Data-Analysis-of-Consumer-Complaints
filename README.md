@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-of-Consumer-Complaints
-This project focuses on analyzing consumer complaints related to financial products and services using Exploratory Data Analysis (EDA). The dataset contains information about complaint categories, submission channels, company responses, resolution timelines, and geographic distribution.
+This project focuses on analyzing consumer complaints related to financial products and services using Exploratory Data Analysis (EDA)  for Bank of America from 2017 to 2023 . The dataset contains information about complaint categories, submission channels, company responses, resolution timelines, and geographic distribution.
 
 The data set and data dictionary are attached here.
 
